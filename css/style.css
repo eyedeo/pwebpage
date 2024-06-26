@@ -36,4 +36,15 @@
     border-color:limegreen;
     font-size: 20px;
 }
+#cellplosion{
+    right:0.4%;
+    position:fixed;
+    
+    height:70%;
+    margin:0;
+    display:inline;
+    width:15%;
+    top:38%;
+    
+}
 
